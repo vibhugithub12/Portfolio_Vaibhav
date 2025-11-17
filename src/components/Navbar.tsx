@@ -8,7 +8,7 @@ const Navbar = () =>{
 
     return(
 
-        <ul className="flex bg-pink-300 justify-center gap-4 h-[10vh] items-center">
+        <ul className="flex bg-pink-300 justify-center gap-4 py-4 items-center">
             {data.navLinks.map((item,index)=>{
                 const isActive= pathName===`${item.path}`;
 
