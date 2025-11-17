@@ -56,8 +56,8 @@ const VibhuPage = async () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen gap-4">
-      <h1 className="text-2xl font-bold">Welcome, The Creator 🔥</h1>
-      <p>Now you&apos;re seeing the secure section.</p>
+      <h1 className="text-2xl font-bold">Welcome, my baby 😘💋</h1>
+      <p>Now you&apos;re seeing the secure section where I say I love you to you</p>
     </div>
   );
 };
