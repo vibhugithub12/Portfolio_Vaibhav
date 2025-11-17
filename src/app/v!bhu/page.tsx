@@ -20,7 +20,7 @@ const verifyPassword = async (formData: FormData) => {
       maxAge: 60 * 60,
     });
 
-    redirect("/vibhu");
+    redirect("/v!bhu");
   } else {
     redirect("/");
   }
